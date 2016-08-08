@@ -1,0 +1,23 @@
+#center{
+	width: 800px;
+	position: relative;
+	margin: 0px auto 0px;
+	background-color: white;
+}
+
+
+
+
+.hdrlogo{
+	float: left;
+	padding: 0 0 0 25px;
+}
+.hdrname{
+	float: left;
+	padding: 10px 0 0 25px;
+}
+.worldwide{
+	float: right;
+	padding: 0 10px 20px 0;
+
+}
