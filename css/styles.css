@@ -1,5 +1,5 @@
 body{
-    background: url(Images/header_bg.png) 0 top repeat-x;
+	background: url("../Images/header_bg.png") 0 top repeat-x;
     line-height: 1.8em;
     display: block;
     margin: 0;
@@ -76,7 +76,6 @@ div#stage{
 	width:980px;
 	height: 1120px;
 	margin: 0 auto;
-	border-style: solid;
 }
 
 div#footer{
